@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.25.2",
+  "version": "2026.11.25.3",
   "product": "k1-prepress-patch",
   "payload": "payload.bin",
-  "size": 910584,
-  "sha256": "dcb5a30fed31e838b50ba43982d20442edb03b682d53b6556f806f6288005224",
+  "size": 911460,
+  "sha256": "a8fc1d8277bf1e4da4e76f3af8955b8bee68477179300eacfb44dd2babe60386",
   "signature": {
     "algorithm": "Ed25519",
     "key_id": "cb85eb0775dfa31f",
-    "value": "s3HyDAWTJPd0btLWvKs2RfaE3/9ofZaH25xOhveaVVaT2+Z1gMxEQrBDuaJTK7h8QtnM+GBLc7I392mvb9nyDw=="
+    "value": "9JI6neQKBJjalvTTx2cxsJ79tWCGva+g91GX0boX76lwT1UyEIoMIHITWbs3R6WBctfnSIhB+dKUD0IWRbk3Cg=="
   }
 }
