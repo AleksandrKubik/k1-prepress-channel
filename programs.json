@@ -2,10 +2,10 @@
   "programs": [
     {
       "id": "graphics",
-      "version": "0.48.0",
-      "ready": false,
-      "url": "",
-      "sha256": ""
+      "version": "0.48.0+66ce988",
+      "ready": true,
+      "file": "programs/graphics.zip",
+      "sha256": "a03b1f894253fce9b72405565fecbdc9d03a8c73d811313cdf43702f0f7bc7ef"
     },
     {
       "id": "sticker",
