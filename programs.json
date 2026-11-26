@@ -1,0 +1,29 @@
+{
+  "programs": [
+    {
+      "id": "graphics",
+      "version": "0.48.0",
+      "ready": false,
+      "url": "",
+      "sha256": ""
+    },
+    {
+      "id": "sticker",
+      "ready": false,
+      "url": "",
+      "sha256": ""
+    },
+    {
+      "id": "cnc",
+      "ready": false,
+      "url": "",
+      "sha256": ""
+    },
+    {
+      "id": "maker",
+      "ready": false,
+      "url": "",
+      "sha256": ""
+    }
+  ]
+}
